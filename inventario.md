@@ -7,5 +7,6 @@ Schede madri
 
 PERIFERICHE
 Tastiere
+Mouse
 
 Elettronica Padovana
