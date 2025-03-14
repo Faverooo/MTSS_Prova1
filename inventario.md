@@ -6,5 +6,6 @@ Processori
 Schede madri
 
 PERIFERICHE
+Mouse
 
 Elettronica Padovana
