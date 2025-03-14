@@ -6,5 +6,6 @@ Processori
 Schede madri
 
 PERIFERICHE
+Tastiere
 
 Elettronica Padovana
