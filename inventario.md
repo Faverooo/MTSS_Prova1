@@ -5,4 +5,6 @@ COMPONENTI
 Processori
 Schede madri
 
+PERIFERICHE
+
 Elettronica Padovana
